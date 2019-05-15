@@ -1,0 +1,19 @@
+RT Journal Article
+SR 1
+A1 潘维济;
+AD 天津南开大学物理系教研室 主任教授
+T1 [美]《工程光学原理》览余
+JF 教材通讯
+YR 1992
+IS 06
+OP 20-22
+K1 纤维光学;全息学;光学原理;夫琅和费;彩虹全息;傅里叶变换;积分变换;
+ 
+
+AB <正> 美国宾夕法尼亚州立大学电机工程系两位先生Francis T. S. Yu和Iam-ChoonKhoo根据多年试用的教学讲义和实践中学生们的反馈意见,为该系低年级本科生:编写了《工程光学原理》(Principles of Opticad Engi-neering),由John Willy & Sons 1990年正
+SN 1005-0450
+CN 11-2313/G4
+LA 中文;
+DS CNKI
+
+

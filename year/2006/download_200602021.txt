@@ -1,0 +1,18 @@
+RT Journal Article
+SR 1
+A1 余胜泉;张泽;
+AD 北京师范大学现代教育技术研究所,高等教育出版社,
+T1 E-learning时代高校教材的立体化出版
+JF 中国大学教学
+YR 2006
+IS 02
+OP 56-59
+K1 立体化出版;新形态;服务支持系统;E-learning;高校教材;
+ 
+
+SN 1005-0450
+CN 11-3213/G4
+LA 中文;
+DS CNKI
+
+

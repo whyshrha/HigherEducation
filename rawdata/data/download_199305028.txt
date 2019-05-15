@@ -1,0 +1,18 @@
+RT Journal Article
+SR 1
+A1 文和平;
+AD 高等教育出版社期刊编辑室,
+T1 小议标题
+JF 教学与教材研究
+YR 1993
+IS 05
+OP 45
+K1 标题;教材质量;
+ 
+
+SN 1005-0450
+CN 11-3213/G4
+LA 中文;
+DS CNKI
+
+

@@ -1,0 +1,19 @@
+RT Journal Article
+SR 1
+A1 谭友军;
+AD 四川大学数学学院;
+T1 数学专业线性代数教学中的PIPA过程
+JF 中国大学教学
+YR 2018
+IS 04
+OP 34-37
+K1 线性代数;;教学;;PIPA
+ 
+
+AB 本文介绍了在数学专业线性代数教学中遵循的"问题(Problem)-直觉(Intuition)-证明(Proof)-应用(Applications)"(PIPA)过程。这种PIPA过程有助于学生理解概念,培养抽象思维能力和数学证明能力,为后继课程的学习打下坚实的基础。
+SN 1005-0450
+CN 11-3213/G4
+LA 中文;
+DS CNKI
+
+

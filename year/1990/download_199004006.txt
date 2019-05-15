@@ -1,0 +1,19 @@
+RT Journal Article
+SR 1
+A1 李振明;
+AD 烟台大学,
+T1 美国金工教材新动向
+JF 教材通讯
+YR 1990
+IS 04
+OP 10-11
+K1 金工;美国;美利坚合众国;北美洲;
+ 
+
+AB <正> 笔者在参加陈寿祖教授主编的《金属工艺学(切削加工部分)》(高教沪版,征订号[2608])教材的编写过程中,参考了以下四本美国80年代的金工教材。 [1]Amstead B.H.,et al:Manufactur-ing Processes, 8 th ed.,New york, John-willey & Sons,1987。 [2]Doyle,Lawrence E et al:Manu-facturing Processes and Materials for
+SN 1005-0450
+CN 11-2313/G4
+LA 中文;
+DS CNKI
+
+

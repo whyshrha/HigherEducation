@@ -1,0 +1,19 @@
+RT Journal Article
+SR 1
+A1 James Stewar,白峰杉
+AD 清华大学数学科学系 CALCULUS(《微积分》)作者,教授
+,教授
+T1 畅销背后的奥秘——访《微积分》教材作者James Stewart
+JF 中国大学教学
+YR 2003
+IS 10
+OP 36-37
+K1 微积分;James Stewart;畅销;
+ 
+
+SN 1005-0450
+CN 11-2313/G4
+LA 中文;
+DS CNKI
+
+

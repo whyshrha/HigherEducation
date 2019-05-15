@@ -1,0 +1,17 @@
+RT Journal Article
+SR 1
+A1 曾昭聪
+T1 《文史文献检索教程》
+JF 中国大学教学
+YR 2004
+IS 02
+OP 63
+K1 文献检索;读者服务;教程;
+ 
+
+SN 1005-0450
+CN 11-2313/G4
+LA 中文;
+DS CNKI
+
+

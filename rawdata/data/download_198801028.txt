@@ -1,0 +1,19 @@
+RT Journal Article
+SR 1
+A1 潘维济;
+AD 南开大学,
+T1 《光学基础》简介
+JF 教材通讯
+YR 1988
+IS 01
+OP 43
+K1 光学;物理系;出版;光学教学;物理概念;读者;物理教材;数学推导;
+ 
+
+AB <正> 由伯克利加利福尼亚大学物理系多年从事光学教学的教授Francis A.Jenkins 和 HarveyE.White 编著的《光学基础》(Fundamentals of Optics)一书已经过了四次修订再版。第一版书名为《物理光学基础》,1937年出版,1950年由清华大学物理系
+SN 1005-0450
+CN 11-3213/G4
+LA 中文;
+DS CNKI
+
+

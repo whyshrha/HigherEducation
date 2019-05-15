@@ -1,0 +1,18 @@
+RT Journal Article
+SR 1
+A1 唐兆亮;
+T1 《高等数学基本教程》简介
+JF 教材通讯
+YR 1987
+IS 03
+OP 46-47
+K1 教程;练习题;高等数学;
+ 
+
+AB <正> 由法国 J.奎奈(J.Quinet)编著的《高等数学基本教程》(Cours élémentaire de math-ématiques supérieures),是法国高等工业学校的教材。到1981年共出六卷:1.代数 2.常用函数 3.微积分和级数 4.微分方程5.几何 6.概率论和统计学。前五卷由作者本人编写。第六卷由 J.Fourastie 和 B.Sahler两人编写,这一卷同前五卷的编写宗旨、写作方
+SN 1005-0450
+CN 11-3213/G4
+LA 中文;
+DS CNKI
+
+

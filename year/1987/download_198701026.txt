@@ -1,0 +1,19 @@
+RT Journal Article
+SR 1
+A1 刘军钪;
+AD 北京大学,
+T1 一本富有新意的无机化学教科书
+JF 教材通讯
+YR 1987
+IS 01
+OP 44-45
+K1 无机化学;参考书;新意;
+ 
+
+AB <正> 《Chemistry of Elements》一书是英国著名里兹大学的化学教授 N.N.Greenwood 和 A.E.arnshaw 积长期经验而写成的。全书观点新颖,内容丰富,图文并茂,通俗易懂。正如为该书作序的加拿大教授 R.J.Gillespie 所评价的那样:“该书在以后的许多年中,一定会成为师生们所欢迎的第一流的无机化学参考书”。《Chemistry of Elements》这本书的一个最
+SN 1005-0450
+CN 11-3213/G4
+LA 中文;
+DS CNKI
+
+

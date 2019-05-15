@@ -1,0 +1,19 @@
+RT Journal Article
+SR 1
+A1 恽瑛
+,钱锋
+AD 东南大学,东南大学
+T1 原版教材Funda mentals of Physics使用体会
+JF 中国大学教学
+YR 2003
+IS 02
+OP 37-38
+K1 原版教材;低年级;学科;兴趣;个性心理特征;英文教材;Funda mentals of Physics;of;
+ 
+
+SN 1009-0789
+CN 11-3089/G4
+LA 中文;
+DS CNKI
+
+

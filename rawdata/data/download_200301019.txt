@@ -1,0 +1,17 @@
+RT Journal Article
+SR 1
+A1 爱因斯坦
+T1 论教育
+JF 中国大学教学
+YR 2003
+IS 01
+OP 42-43
+K1 学校;小学生;中小学生;
+ 
+
+SN 1009-0789
+CN 11-3089/G4
+LA 中文;
+DS CNKI
+
+

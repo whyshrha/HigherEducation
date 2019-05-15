@@ -1,0 +1,19 @@
+RT Journal Article
+SR 1
+A1 王曾雋;马肇曾;
+AD 北京钢铁学院,北京钢铁学院,
+T1 介绍H_2S电离常数的一些数据
+JF 教材通讯
+YR 1985
+IS 05
+OP 26
+K1 电离常数;电离平衡常数;H_2S;
+ 
+
+AB <正> 氢硫酸的电离常数数据在各种资料上出入很大。尹敬执、申泮文著《基础无机化学》中对此曾有过论述(见上册244页)。最近见到IUPAC化学数据丛书第29号,D.D.Perrin《水溶液中无机酸碱的电离常数》(Ionisation Constants of Inorganic Acidsand Bases in Aqueous Solution,1982)第二
+SN 1005-0450
+CN 11-2313/G4
+LA 中文;
+DS CNKI
+
+

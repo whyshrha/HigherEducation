@@ -1,0 +1,17 @@
+RT Journal Article
+SR 1
+A1 张绍来
+T1 《读书与修身》
+JF 中国大学教学
+YR 2004
+IS 02
+OP 41
+K1 名著;标题;
+ 
+
+SN 1005-0450
+CN 11-2313/G4
+LA 中文;
+DS CNKI
+
+

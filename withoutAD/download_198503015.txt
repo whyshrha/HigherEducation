@@ -1,0 +1,18 @@
+RT Journal Article
+SR 1
+A1 李永和;
+T1 H·扎尔科斯基《半导体电路设计》评介
+JF 教材通讯
+YR 1985
+IS 03
+OP 26-27
+K1 半导体电路;电子线路;扎尔;科斯;
+ 
+
+AB <正> 联邦德国埃斯林格(ESSlingen)工程学院H.扎尔科斯基著《半导体电路设计》(第三版)(Heinz Sarkowiski,Dimansionierung VonHalileiterschaltungen,3.Auflage),是一本有特色的半导体电路设计方面的教科书。全书共分十章。第一章讨论了双极型晶体管的主要特性及其在设计中的应用,着重讨论了几种典型模
+SN 1005-0450
+CN 11-2313/G4
+LA 中文;
+DS CNKI
+
+

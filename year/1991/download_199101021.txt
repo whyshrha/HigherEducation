@@ -1,0 +1,19 @@
+RT Journal Article
+SR 1
+A1 王祥;
+AD 南开大学,
+T1 PAD-CL结构化程序设计方法PAD-CL结构化程序设计方法
+JF 教材通讯
+YR 1991
+IS 01
+OP 31-35
+K1 PAD-CL;基本符号;结构化程序设计;图式;
+ 
+
+AB <正> 本文将当前软件工程领域中较先进的 PAD(Prob-lem Analysis Diagram)编程技术与 C 语言(简记为CL)相结合,给出了开发程序模块的 PAD-CL 结构化方法。一、PAD 的基本符号及基本图式1.基本符号 PAD 使用的基本符号如下:
+SN 1005-0450
+CN 11-2313/G4
+LA 中文;
+DS CNKI
+
+

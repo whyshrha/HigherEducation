@@ -1,0 +1,19 @@
+RT Journal Article
+SR 1
+A1 范兴言;
+AD 湖南大学 副教授
+T1 Physical Metallurgy译法商榷
+JF 教材通讯
+YR 1991
+IS 06
+OP 41
+K1 译法;理由;Physical Metallurgy;物理金属学;
+ 
+
+AB <正> 英文教材Physical Metallurgy的中译本相继问世,目前有三种译法:“物理冶金学”(图书编目至今仍沿用此译法),“金属物理学”,“物理金属学”。笔者认为“物理金属学”或“金属学”是较好的译法,理由如下;
+SN 1005-0450
+CN 11-2313/G4
+LA 中文;
+DS CNKI
+
+
